@@ -1,7 +1,9 @@
 
 #%% [markdown]
 
-$$c = \sqrt{a^2 + b^2}$$
+## heading
+
+# $$c = \sqrt{a^2 + b^2}$$
 
 
 #%%
